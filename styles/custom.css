@@ -1,0 +1,19 @@
+.text_hover {
+	@apply hover:text-primary/90;
+}
+
+.dropdown_link {
+	@apply text-sm text-fade-black hover:text-primary/50 font-medium w-full border-t border-slate-100 px-2 py-4;
+}
+
+.content_container {
+	@apply sm:w-full md:max-w-[690px] xl:max-w-[1141px] mx-auto;
+}
+
+.head_text {
+	@apply max-sm:text-3xl font-[600] leading-[1.15] text-[#1F2F59] text-5xl;
+}
+
+.mini_hr {
+	@apply w-20 border-secondary-blue border-b-[5px] rounded-full;
+}

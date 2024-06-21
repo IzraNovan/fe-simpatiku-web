@@ -1,0 +1,7 @@
+.vector_left {
+	@apply absolute w-[271px] h-[367px] left-0 top-0 z-[-999];
+}
+
+.vector_right {
+	@apply absolute w-[271px] h-[367px] right-0 bottom-0 z-[-999];
+}
